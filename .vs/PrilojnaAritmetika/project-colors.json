@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b9e4bda-5c2e-4e4e-bdf3-80920aded4b8": {
+      "ProjectGuid": "2b9e4bda-5c2e-4e4e-bdf3-80920aded4b8",
+      "DisplayName": "PrilojnaAritmetika",
+      "ColorIndex": 0
+    },
+    "b6af8148-3165-4598-bfa5-0596a477f878": {
+      "ProjectGuid": "b6af8148-3165-4598-bfa5-0596a477f878",
+      "DisplayName": "ОбърниИИзпълни",
+      "ColorIndex": 1
+    },
+    "14a41c94-0163-4d1f-ab57-36bc41dc8436": {
+      "ProjectGuid": "14a41c94-0163-4d1f-ab57-36bc41dc8436",
+      "DisplayName": "Names",
+      "ColorIndex": 2
+    },
+    "daf0fc67-2f6d-4e86-b091-11beab563b4b": {
+      "ProjectGuid": "daf0fc67-2f6d-4e86-b091-11beab563b4b",
+      "DisplayName": "Sravnqvane",
+      "ColorIndex": 3
+    },
+    "bdc7e644-64ea-442b-a11d-75d2ece7e50e": {
+      "ProjectGuid": "bdc7e644-64ea-442b-a11d-75d2ece7e50e",
+      "DisplayName": "Делене",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,14 @@
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\bin\Debug\net6.0\PrilojnaAritmetika.exe
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\bin\Debug\net6.0\PrilojnaAritmetika.deps.json
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\bin\Debug\net6.0\PrilojnaAritmetika.runtimeconfig.json
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\bin\Debug\net6.0\PrilojnaAritmetika.dll
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\bin\Debug\net6.0\ref\PrilojnaAritmetika.dll
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\bin\Debug\net6.0\PrilojnaAritmetika.pdb
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\obj\Debug\net6.0\PrilojnaAritmetika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\obj\Debug\net6.0\PrilojnaAritmetika.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\obj\Debug\net6.0\PrilojnaAritmetika.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\obj\Debug\net6.0\PrilojnaAritmetika.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\obj\Debug\net6.0\PrilojnaAritmetika.dll
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\obj\Debug\net6.0\ref\PrilojnaAritmetika.dll
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\obj\Debug\net6.0\PrilojnaAritmetika.pdb
+C:\Users\Georgi\Desktop\PrilojnaAritmetika\obj\Debug\net6.0\PrilojnaAritmetika.genruntimeconfig.cache
