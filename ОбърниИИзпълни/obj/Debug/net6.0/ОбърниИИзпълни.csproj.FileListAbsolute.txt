@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\bin\Debug\net6.0\ОбърниИИзпълни.exe
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\bin\Debug\net6.0\ОбърниИИзпълни.deps.json
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\bin\Debug\net6.0\ОбърниИИзпълни.runtimeconfig.json
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\bin\Debug\net6.0\ОбърниИИзпълни.dll
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\bin\Debug\net6.0\ref\ОбърниИИзпълни.dll
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\bin\Debug\net6.0\ОбърниИИзпълни.pdb
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\obj\Debug\net6.0\ОбърниИИзпълни.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\obj\Debug\net6.0\ОбърниИИзпълни.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\obj\Debug\net6.0\ОбърниИИзпълни.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\obj\Debug\net6.0\ОбърниИИзпълни.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\obj\Debug\net6.0\ОбърниИИзпълни.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\obj\Debug\net6.0\ОбърниИИзпълни.dll
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\obj\Debug\net6.0\ref\ОбърниИИзпълни.dll
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\obj\Debug\net6.0\ОбърниИИзпълни.pdb
+C:\Users\Georgi\Desktop\ОбърниИИзпълни\obj\Debug\net6.0\ОбърниИИзпълни.genruntimeconfig.cache

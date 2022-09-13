@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\Sravnqvane\bin\Debug\net6.0\Sravnqvane.exe
+C:\Users\Georgi\Desktop\Sravnqvane\bin\Debug\net6.0\Sravnqvane.deps.json
+C:\Users\Georgi\Desktop\Sravnqvane\bin\Debug\net6.0\Sravnqvane.runtimeconfig.json
+C:\Users\Georgi\Desktop\Sravnqvane\bin\Debug\net6.0\Sravnqvane.dll
+C:\Users\Georgi\Desktop\Sravnqvane\bin\Debug\net6.0\ref\Sravnqvane.dll
+C:\Users\Georgi\Desktop\Sravnqvane\bin\Debug\net6.0\Sravnqvane.pdb
+C:\Users\Georgi\Desktop\Sravnqvane\obj\Debug\net6.0\Sravnqvane.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\Sravnqvane\obj\Debug\net6.0\Sravnqvane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\Sravnqvane\obj\Debug\net6.0\Sravnqvane.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Sravnqvane\obj\Debug\net6.0\Sravnqvane.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Sravnqvane\obj\Debug\net6.0\Sravnqvane.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Sravnqvane\obj\Debug\net6.0\Sravnqvane.dll
+C:\Users\Georgi\Desktop\Sravnqvane\obj\Debug\net6.0\ref\Sravnqvane.dll
+C:\Users\Georgi\Desktop\Sravnqvane\obj\Debug\net6.0\Sravnqvane.pdb
+C:\Users\Georgi\Desktop\Sravnqvane\obj\Debug\net6.0\Sravnqvane.genruntimeconfig.cache

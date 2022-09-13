@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\Делене\bin\Debug\net6.0\Делене.exe
+C:\Users\Georgi\Desktop\Делене\bin\Debug\net6.0\Делене.deps.json
+C:\Users\Georgi\Desktop\Делене\bin\Debug\net6.0\Делене.runtimeconfig.json
+C:\Users\Georgi\Desktop\Делене\bin\Debug\net6.0\Делене.dll
+C:\Users\Georgi\Desktop\Делене\bin\Debug\net6.0\ref\Делене.dll
+C:\Users\Georgi\Desktop\Делене\bin\Debug\net6.0\Делене.pdb
+C:\Users\Georgi\Desktop\Делене\obj\Debug\net6.0\Делене.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\Делене\obj\Debug\net6.0\Делене.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\Делене\obj\Debug\net6.0\Делене.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Делене\obj\Debug\net6.0\Делене.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Делене\obj\Debug\net6.0\Делене.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Делене\obj\Debug\net6.0\Делене.dll
+C:\Users\Georgi\Desktop\Делене\obj\Debug\net6.0\ref\Делене.dll
+C:\Users\Georgi\Desktop\Делене\obj\Debug\net6.0\Делене.pdb
+C:\Users\Georgi\Desktop\Делене\obj\Debug\net6.0\Делене.genruntimeconfig.cache
